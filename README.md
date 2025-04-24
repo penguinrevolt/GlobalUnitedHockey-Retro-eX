@@ -13,7 +13,7 @@ I did add several thousand < 100 PA rated playersto fill out junior drafts and C
 
 ALL 16 1972-73 NHL teams, ALL 12 WHA teams*, 2 future expansions added early to fill out 30 teams into a unified single Nationalternative Hockey League
 
-Fictional or modified inclusions: 
+Fictional or modified inclusions: <br />
 1972 Soviet Union Olympic team -> Washington Capitals
 
 1972 Czechoslovakia Olympic team -> Indianapolis Racers
