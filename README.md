@@ -15,14 +15,20 @@ ALL 16 1972-73 NHL teams, ALL 12 WHA teams*, 2 future expansions added early to 
 
 Fictional or modified inclusions: 
 1972 Soviet Union Olympic team -> Washington Capitals
+
 1972 Czechoslovakia Olympic team -> Indianapolis Racers
 
 Relocated/Rebranded WHA teams:
 Philadelphia Blazers have relocated as the Calgary Cowboys, a future WHA expansion that was not present in 1972
+
 Chicago Cougars relocated as the Colorado Cougars, to avoid 2 Chicago teams and shifting the color scheme to the modern Colorado Avalanche
+
 New York Raiders relocated as the Jersey Devils, the real life Raiders shifted around a bit, partially ending up in New Jersey, with the league missing the popular Devils franchise, I rebranded a mix of the 1980's Devils with the EHL Devils minor league team 
+
 Minnesota Fighting Saints relocating as the Miami Screaming Eagles. Miami was an original WHA team that folded before they got off the ground, and I rebranded them using the modern Florida Panthers color scheme
-Ottawa Nationals rebranding as the Ottawa Toros, the Nationals ended up moving to Toronto and Birmingham, and I liked the Bull team name. The color scheme was a very common red/white/blue, so I rebranded using the modern Ottawa Senators colors and used the Toros name. 
+
+Ottawa Nationals rebranding as the Ottawa Toros, the Nationals ended up moving to Toronto and Birmingham, and I liked the Bull team name. The color scheme was a very common red/white/blue, so I rebranded using the modern Ottawa Senators colors and used the Toros name.
+
 Los Angeles Sharks relocated as the Seattle Sharks. Since the California Golden Seals use the modern San Jose area as their home base, I decided to just shift the team further north, using a mix of the modern SJ Sharks and Seattle Kraken color schemes. 
 
 The WHL, QMJHL, and OHL have each been expanded to 30 teams (90 junior teams) to encourage star junior players to get more ice team and spread talent. This may not stay in the final release, but I thought it was neat if anyone wanted to try to work from the ground up. 
